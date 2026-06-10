@@ -1,0 +1,21 @@
+{
+  "name": "Nigeria E-Voter Portal",
+  "short_name": "NGA E-Voter",
+  "description": "Secure digital voter registration and electoral portal for Nigeria.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E794F",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=NGA&backgroundColor=1E794F&fontFamily=Arial&fontWeight=bold",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/initials/svg?seed=NGA&backgroundColor=1E794F&fontFamily=Arial&fontWeight=bold",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

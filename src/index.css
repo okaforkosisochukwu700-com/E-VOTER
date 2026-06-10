@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #008751;
+  --color-primary-dark: #006A40;
+  --color-ng-bg: #F4F7F4;
+  --color-ng-text: #1A2E1A;
+}
+
+@layer base {
+  body {
+    @apply bg-ng-bg text-ng-text antialiased;
+  }
+}

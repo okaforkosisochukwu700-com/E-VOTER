@@ -1,0 +1,8 @@
+{
+  "name": "Nigeria E-Voter",
+  "description": "Digital voter registration and secure voting platform for Nigerian citizens featuring biometric verification and automated electoral restrictions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
